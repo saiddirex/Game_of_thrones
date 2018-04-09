@@ -1,0 +1,23 @@
+c:\users\yonidabrah\documents\visual studio 2012\Projects\ThronesTournamentConsole\EntitiesLayer\obj\Debug\EntitiesLayer.csprojResolveAssemblyReference.cache
+c:\users\yonidabrah\documents\visual studio 2012\Projects\ThronesTournamentConsole\EntitiesLayer\bin\Debug\EntitiesLayer.dll
+c:\users\yonidabrah\documents\visual studio 2012\Projects\ThronesTournamentConsole\EntitiesLayer\bin\Debug\EntitiesLayer.pdb
+c:\users\yonidabrah\documents\visual studio 2012\Projects\ThronesTournamentConsole\EntitiesLayer\obj\Debug\EntitiesLayer.dll
+c:\users\yonidabrah\documents\visual studio 2012\Projects\ThronesTournamentConsole\EntitiesLayer\obj\Debug\EntitiesLayer.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\EntitiesLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\EntitiesLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\EntitiesLayer\obj\Debug\EntitiesLayer.csprojResolveAssemblyReference.cache
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\EntitiesLayer\obj\Debug\EntitiesLayer.csproj.CoreCompileInputs.cache
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\EntitiesLayer\obj\Debug\EntitiesLayer.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\EntitiesLayer\obj\Debug\EntitiesLayer.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\EntitiesLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\EntitiesLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\EntitiesLayer\obj\Debug\EntitiesLayer.csprojResolveAssemblyReference.cache
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\EntitiesLayer\obj\Debug\EntitiesLayer.csproj.CoreCompileInputs.cache
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\EntitiesLayer\obj\Debug\EntitiesLayer.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\EntitiesLayer\obj\Debug\EntitiesLayer.pdb
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\EntitiesLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\EntitiesLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\EntitiesLayer\obj\Debug\EntitiesLayer.csprojResolveAssemblyReference.cache
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\EntitiesLayer\obj\Debug\EntitiesLayer.csproj.CoreCompileInputs.cache
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\EntitiesLayer\obj\Debug\EntitiesLayer.dll
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\EntitiesLayer\obj\Debug\EntitiesLayer.pdb

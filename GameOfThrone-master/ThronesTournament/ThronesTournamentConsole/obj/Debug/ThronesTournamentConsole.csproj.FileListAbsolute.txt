@@ -1,0 +1,36 @@
+c:\users\yonidabrah\documents\visual studio 2012\Projects\ThronesTournamentConsole\ThronesTournamentConsole\bin\Debug\ThronesTournamentConsole.exe.config
+c:\users\yonidabrah\documents\visual studio 2012\Projects\ThronesTournamentConsole\ThronesTournamentConsole\bin\Debug\ThronesTournamentConsole.exe
+c:\users\yonidabrah\documents\visual studio 2012\Projects\ThronesTournamentConsole\ThronesTournamentConsole\bin\Debug\ThronesTournamentConsole.pdb
+c:\users\yonidabrah\documents\visual studio 2012\Projects\ThronesTournamentConsole\ThronesTournamentConsole\obj\Debug\ThronesTournamentConsole.exe
+c:\users\yonidabrah\documents\visual studio 2012\Projects\ThronesTournamentConsole\ThronesTournamentConsole\obj\Debug\ThronesTournamentConsole.pdb
+c:\users\yonidabrah\documents\visual studio 2012\Projects\ThronesTournamentConsole\ThronesTournamentConsole\bin\Debug\BusinessLayer.dll
+c:\users\yonidabrah\documents\visual studio 2012\Projects\ThronesTournamentConsole\ThronesTournamentConsole\bin\Debug\EntitiesLayer.dll
+c:\users\yonidabrah\documents\visual studio 2012\Projects\ThronesTournamentConsole\ThronesTournamentConsole\bin\Debug\BusinessLayer.pdb
+c:\users\yonidabrah\documents\visual studio 2012\Projects\ThronesTournamentConsole\ThronesTournamentConsole\bin\Debug\EntitiesLayer.pdb
+c:\users\yonidabrah\documents\visual studio 2012\Projects\ThronesTournamentConsole\ThronesTournamentConsole\obj\Debug\ThronesTournamentConsole.csprojResolveAssemblyReference.cache
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\ThronesTournamentConsole\bin\Debug\ThronesTournamentConsole.exe.config
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\ThronesTournamentConsole\bin\Debug\ThronesTournamentConsole.exe
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\ThronesTournamentConsole\bin\Debug\ThronesTournamentConsole.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\ThronesTournamentConsole\bin\Debug\BusinessLayer.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\ThronesTournamentConsole\bin\Debug\EntitiesLayer.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\ThronesTournamentConsole\bin\Debug\BusinessLayer.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\ThronesTournamentConsole\bin\Debug\EntitiesLayer.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\ThronesTournamentConsole\obj\Debug\ThronesTournamentConsole.csprojResolveAssemblyReference.cache
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\ThronesTournamentConsole\obj\Debug\ThronesTournamentConsole.csproj.CoreCompileInputs.cache
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\ThronesTournamentConsole\obj\Debug\ThronesTournamentConsole.exe
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\ThronesTournamentConsole\obj\Debug\ThronesTournamentConsole.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\ThronesTournamentConsole\bin\Debug\DataAccessLayer.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\ThronesTournamentConsole\bin\Debug\DataAccessLayer.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\ThronesTournamentConsole\bin\Debug\ThronesTournamentConsole.exe.config
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\ThronesTournamentConsole\bin\Debug\ThronesTournamentConsole.exe
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\ThronesTournamentConsole\bin\Debug\ThronesTournamentConsole.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\ThronesTournamentConsole\bin\Debug\BusinessLayer.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\ThronesTournamentConsole\bin\Debug\EntitiesLayer.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\ThronesTournamentConsole\bin\Debug\DataAccessLayer.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\ThronesTournamentConsole\bin\Debug\BusinessLayer.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\ThronesTournamentConsole\bin\Debug\EntitiesLayer.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\ThronesTournamentConsole\bin\Debug\DataAccessLayer.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\ThronesTournamentConsole\obj\Debug\ThronesTournamentConsole.csprojResolveAssemblyReference.cache
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\ThronesTournamentConsole\obj\Debug\ThronesTournamentConsole.csproj.CoreCompileInputs.cache
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\ThronesTournamentConsole\obj\Debug\ThronesTournamentConsole.exe
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\ThronesTournamentConsole\obj\Debug\ThronesTournamentConsole.pdb

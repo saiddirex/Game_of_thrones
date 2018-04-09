@@ -1,0 +1,17 @@
+﻿@model List<WebGoT.Models.Character.IndexViewModel>
+@{
+
+    ViewBag.Title = "Index";
+}
+
+<h2>Characters</h2>
+
+@foreach (var character in Model)
+{
+
+    <div> <label>First Name : </label> @character.firstName </div>
+    <div> <label>Last Name : </label> @character.lastName </div>
+
+}
+
+

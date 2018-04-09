@@ -1,0 +1,30 @@
+﻿@model List<WebGoT.Models.House.IndexViewModel>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Houses</h2>
+
+@foreach (var house in Model)
+{
+    <div> <label>House Name : </label> @house.Name </div>
+    <div> <label>Number of unities : </label> @house.NumberOfUnities </div>
+    
+    if (house.Housers.Count != 0)
+    {
+        <h3>Characters</h3>
+        <ul>
+            @foreach (var character in house.Housers)
+            { 
+                <li>@character.firstName @character.lastName</li>
+            }
+
+        </ul>
+    }
+
+    <br />
+
+ }
+
+
+

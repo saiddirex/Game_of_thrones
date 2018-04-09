@@ -1,0 +1,39 @@
+c:\users\yonidabrah\documents\visual studio 2012\Projects\ThronesTournamentConsole\BusinessLayer\bin\Debug\BusinessLayer.dll
+c:\users\yonidabrah\documents\visual studio 2012\Projects\ThronesTournamentConsole\BusinessLayer\bin\Debug\BusinessLayer.pdb
+c:\users\yonidabrah\documents\visual studio 2012\Projects\ThronesTournamentConsole\BusinessLayer\bin\Debug\EntitiesLayer.dll
+c:\users\yonidabrah\documents\visual studio 2012\Projects\ThronesTournamentConsole\BusinessLayer\bin\Debug\StubDataAccessLayer.dll
+c:\users\yonidabrah\documents\visual studio 2012\Projects\ThronesTournamentConsole\BusinessLayer\bin\Debug\EntitiesLayer.pdb
+c:\users\yonidabrah\documents\visual studio 2012\Projects\ThronesTournamentConsole\BusinessLayer\bin\Debug\StubDataAccessLayer.pdb
+c:\users\yonidabrah\documents\visual studio 2012\Projects\ThronesTournamentConsole\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+c:\users\yonidabrah\documents\visual studio 2012\Projects\ThronesTournamentConsole\BusinessLayer\obj\Debug\BusinessLayer.dll
+c:\users\yonidabrah\documents\visual studio 2012\Projects\ThronesTournamentConsole\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\BusinessLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\BusinessLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\BusinessLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\BusinessLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\BusinessLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\BusinessLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\BusinessLayer\obj\Debug\BusinessLayer.pdb

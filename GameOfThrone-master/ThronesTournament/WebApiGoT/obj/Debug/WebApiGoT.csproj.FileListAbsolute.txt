@@ -1,0 +1,78 @@
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\WebApiGoT\bin\WebApiGoT.dll.config
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\WebApiGoT\bin\WebApiGoT.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\WebApiGoT\bin\WebApiGoT.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\WebApiGoT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\WebApiGoT\bin\Newtonsoft.Json.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\WebApiGoT\bin\System.Net.Http.Formatting.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\WebApiGoT\bin\System.Web.Http.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\WebApiGoT\bin\System.Web.Http.WebHost.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\WebApiGoT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\WebApiGoT\bin\Newtonsoft.Json.xml
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\WebApiGoT\bin\System.Net.Http.Formatting.xml
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\WebApiGoT\bin\System.Web.Http.xml
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\WebApiGoT\bin\System.Web.Http.WebHost.xml
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\WebApiGoT\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\WebApiGoT\bin\fr\System.Web.Http.resources.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\WebApiGoT\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\WebApiGoT\obj\Debug\WebApiGoT.csprojResolveAssemblyReference.cache
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\WebApiGoT\obj\Debug\WebApiGoT.csproj.CoreCompileInputs.cache
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\WebApiGoT\obj\Debug\WebApiGoT.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\WebApiGoT\obj\Debug\WebApiGoT.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\WebApiGoT\bin\BusinessLayer.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\WebApiGoT\bin\EntitiesLayer.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\WebApiGoT\bin\DataAccessLayer.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\WebApiGoT\bin\BusinessLayer.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\WebApiGoT\bin\EntitiesLayer.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\ThronesTournamentConsole\WebApiGoT\bin\DataAccessLayer.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\WebApiGoT\bin\WebApiGoT.dll.config
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\WebApiGoT\bin\WebApiGoT.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\WebApiGoT\bin\WebApiGoT.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\WebApiGoT\bin\BusinessLayer.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\WebApiGoT\bin\EntitiesLayer.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\WebApiGoT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\WebApiGoT\bin\Newtonsoft.Json.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\WebApiGoT\bin\System.Net.Http.Formatting.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\WebApiGoT\bin\System.Web.Http.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\WebApiGoT\bin\System.Web.Http.WebHost.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\WebApiGoT\bin\DataAccessLayer.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\WebApiGoT\bin\BusinessLayer.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\WebApiGoT\bin\EntitiesLayer.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\WebApiGoT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\WebApiGoT\bin\Newtonsoft.Json.xml
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\WebApiGoT\bin\System.Net.Http.Formatting.xml
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\WebApiGoT\bin\System.Web.Http.xml
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\WebApiGoT\bin\System.Web.Http.WebHost.xml
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\WebApiGoT\bin\DataAccessLayer.pdb
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\WebApiGoT\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\WebApiGoT\bin\fr\System.Web.Http.resources.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\WebApiGoT\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\WebApiGoT\obj\Debug\WebApiGoT.csprojResolveAssemblyReference.cache
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\WebApiGoT\obj\Debug\WebApiGoT.csproj.CoreCompileInputs.cache
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\WebApiGoT\obj\Debug\WebApiGoT.dll
+C:\Users\youssefNIDA\Documents\ISIMA\S2\web Services\Projet\ThronesTournament\WebApiGoT\obj\Debug\WebApiGoT.pdb
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\WebApiGoT\bin\WebApiGoT.dll.config
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\WebApiGoT\bin\WebApiGoT.dll
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\WebApiGoT\bin\WebApiGoT.pdb
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\WebApiGoT\bin\BusinessLayer.dll
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\WebApiGoT\bin\EntitiesLayer.dll
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\WebApiGoT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\WebApiGoT\bin\Newtonsoft.Json.dll
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\WebApiGoT\bin\System.Net.Http.Formatting.dll
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\WebApiGoT\bin\System.Web.Http.dll
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\WebApiGoT\bin\System.Web.Http.WebHost.dll
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\WebApiGoT\bin\DataAccessLayer.dll
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\WebApiGoT\bin\BusinessLayer.pdb
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\WebApiGoT\bin\EntitiesLayer.pdb
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\WebApiGoT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\WebApiGoT\bin\Newtonsoft.Json.xml
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\WebApiGoT\bin\System.Net.Http.Formatting.xml
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\WebApiGoT\bin\System.Web.Http.xml
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\WebApiGoT\bin\System.Web.Http.WebHost.xml
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\WebApiGoT\bin\DataAccessLayer.pdb
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\WebApiGoT\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\WebApiGoT\bin\fr\System.Web.Http.resources.dll
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\WebApiGoT\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\WebApiGoT\obj\Debug\WebApiGoT.csprojResolveAssemblyReference.cache
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\WebApiGoT\obj\Debug\WebApiGoT.csproj.CoreCompileInputs.cache
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\WebApiGoT\obj\Debug\WebApiGoT.dll
+C:\Users\Said\Desktop\GameOfThrone-master\ThronesTournament\WebApiGoT\obj\Debug\WebApiGoT.pdb
